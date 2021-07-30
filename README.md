@@ -5,4 +5,4 @@ Discord bot that grabs the season level of any specified account,
 !lvl {ACCOUNT NAME} - provides the level of a Fortnite account
 
 # Setup Tutorial
-(COMING SOON!)
+[![Tutorial](https://img.youtube.com/vi/LJuJ6nGPU8U/0.jpg)](https://www.youtube.com/watch?v=LJuJ6nGPU8U)
