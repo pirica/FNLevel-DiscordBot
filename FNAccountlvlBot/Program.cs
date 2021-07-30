@@ -23,7 +23,7 @@ namespace FNAccountlvlBot
 
             new CommandHandler(_client);
 
-            var token = File.ReadAllText(Directory.GetCurrentDirectory().ToString() + "/Bot/token.txt");
+            var token = File.ReadAllText(Directory.GetCurrentDirectory().ToString() + "/token.txt");
 
             await _client.LoginAsync(TokenType.Bot, token); //Token goes here!
 

@@ -18,10 +18,10 @@ namespace DISCORD_BOT
 
             _service = new CommandService();
 
-            _client.MessageReceived += HandleCommandAsynce;
+            _client.MessageReceived += HandleCommandAsync;
         }
 
-        private async Task HandleCommandAsynce(SocketMessage s)
+        private async Task HandleCommandAsync(SocketMessage s)
         {
             var msg = s as SocketUserMessage;
 
