@@ -6,3 +6,6 @@ Discord bot that grabs the season level of any specified account,
 
 # Setup Tutorial</p>
 Tutorial: https://www.youtube.com/watch?v=LJuJ6nGPU8U
+
+# Explanations
+All over at the Wiki - https://github.com/TheSingleOneYT/FNLevel-DiscordBot/wiki
