@@ -1,7 +1,9 @@
 # FNLevel-DiscordBot
-Discord bot that grabs the season level of any specified account,
+Discord bot that grabs the season level of any specified account
 
-[![GitHub issues](https://img.shields.io/github/issues/TheSingleOneYT/FNLevel-DiscordBot?logo=GitHub&style=flat-square)](https://github.com/TheSingleOneYT/FNLevel-DiscordBot)
+NOTE:
+This version is outdated, please use my new version:
+https://github.com/TheSingleOneYT/FNLevel-DiscordBotV2
 
 # How to use:
 **!lvl {ACCOUNT NAME}** - provides the level of a Fortnite account
